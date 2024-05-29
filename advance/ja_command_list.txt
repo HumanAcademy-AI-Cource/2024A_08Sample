@@ -1,0 +1,25 @@
+#### 準備編 プログラムをダウンロードしよう
+# コマンドA1 ディレクトリ作成
+mkdir ~/github
+
+# コマンドA2 ディレクトリ移動
+cd ~/github
+
+# コマンドA3 GitHubからプログラムをダウンロード
+git clone https://github.com/HumanAcademy-AI-Cource/2023_XXSample.git
+
+
+#### 実行編 XXXXを使ってみよう
+# コマンドB1 ディレクトリを移動
+cd ~/github/2023_XXSample
+
+# コマンドB2 サンプル実行
+python3 sample_program1.py
+
+# コマンドB3 プログラムを編集
+python3 sample_program2.py
+
+
+#### プログラムの中身を見たり編集してみよう
+# コマンドZ プログラム編集
+code ~/github/2023_XXSample
